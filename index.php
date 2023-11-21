@@ -14,7 +14,7 @@
         </p>
         <p>
             <label>Senha</label>
-            <input type=senha name="senha">
+            <input type=password name="senha">
         </p>
         <p>
             <button>Enviar</button>
